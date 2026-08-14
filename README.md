@@ -69,6 +69,7 @@ Infrastructure: Network Bottleneck Troubleshooting, Mesh Networking.
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 <br />
 <img src="https://img.shields.io/badge/SciKit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="SciKit Learn" />
 
@@ -87,14 +88,14 @@ Infrastructure: Network Bottleneck Troubleshooting, Mesh Networking.
 
 ### 🌐 Development
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white" alt="CSS3" />
 
 ### 🔧 Hardware & Edge Computing
 
 <img src="https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson" />
 <img src="https://img.shields.io/badge/Jetson_Orin-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson Orin" />
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+
 
 </div>
 
