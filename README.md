@@ -20,25 +20,40 @@
   - Directly participated in PCB design, schematic routing, and hardware wiring for practical industrial systems.
 
 ---
-🧠 AI/ML & Hardware Specialization
+## 🧠 AI/ML & Hardware Specialization
 Computer Vision: Object Detection, Object Tracking, OCR Extraction, Visual Embedding.
 Edge AI: Real-time Inference, TensorRT FP16 Quantization, Model Deployment.
 Hardware & Embedded: PCB Design (Altium/Proteus), I2C Bus, 16-bit ADCs, NVIDIA Jetson Series.
 Infrastructure: Network Bottleneck Troubleshooting, Mesh Networking.
 ## 🚀 Featured Projects
+### AI-Based Surface Anomaly Detection & Geo-Tagging 
 
-### 1. AI-Based Surface Anomaly Detection & Geo-Tagging 
-*A real-time Edge AI computer vision system, researched *
-- **Architecture & Optimization:** Trained YOLOv8n on 640x640 resolution. Applied TensorRT FP16 quantization, pushing inference throughput to an impressive **102.34 FPS** on the NVIDIA Jetson Orin Nano platform.
-- **Data Processing:** Utilized an optimized dataset (Dataset 2)—a refined combination of real-world Vietnamese street environments and internet data—achieving a **mAP of 83%**.
-- **Innovative Solution:** Replaced high-latency traditional GPS hardware with a custom **Zero-Latency visual embedding** and OCR extraction method for instantaneous geo-tagging.
+✨ Achievements:
 
-### 2. Automated Object Tracking & High-Precision Counting Pipeline
-- Architected an Edge IoT safety system on NVIDIA Jetson Nano, interfacing an external 16-bit ADS1115 ADC via a 400kHz I2C bus to achieve 64x higher signal resolution than legacy 10-bit MCU ADCs.
-- Engineered a multi-threaded Python pipeline decoupling 100Hz sensor polling from alert execution, eliminating I/O bottlenecks to guarantee an ultra-low response latency of <10ms.
-- Mitigated analog voltage noise by implementing a Moving-Average Filtering algorithm (20-sample window, 2-second sustained threshold), successfully eliminating 100% of false excursion alarms for industrial reliability.
+🎯 High Accuracy: Achieved an 83% mAP by utilizing a highly optimized dataset (Dataset 2), which effectively combined real-world Vietnamese street environments with refined internet data.
 
----
+⚡ Model Quantization: Applied TensorRT FP16 quantization, pushing inference throughput to a blistering 102.34 FPS on edge hardware.
+
+📍 Innovative Architecture: Replaced traditional, high-latency GPS hardware with a custom Zero-Latency visual embedding and OCR extraction method for instantaneous geo-tagging.
+
+### Automated Object Tracking & High-Precision Counting Pipeline
+
+✨ Achievements:
+
+🎯 Engineered a computer vision pipeline accurately detecting, classifying, and tracking dynamic objects continuously across frames, achieving an overall accuracy exceeding 98%.
+
+🔄 Integrated Kalman filters for trajectory prediction and Re-Identification (ReID), maintaining consistent object identities and resolving temporary occlusions in medium to high traffic density.
+
+📊 Sustained 86% precision and 80% recall in complex environments through automated preprocessing (640x640 resizing and 0-1 pixel normalization).
+
+###  Smart Environmental & Excursion Prevention System 
+✨ Achievements:
+
+📡 Interfaced an external 16-bit ADS1115 ADC via a 400kHz I2C bus to achieve 64x higher signal resolution than legacy 10-bit MCU ADCs.
+
+⚡ Engineered a multi-threaded Python pipeline decoupling 100Hz sensor polling from alert execution, eliminating I/O bottlenecks to guarantee an ultra-low response latency of <10ms.
+
+🎛️ Implemented a Moving-Average Filtering algorithm (20-sample window), successfully eliminating 100% of false excursion alarms for industrial reliability.
 
 ## 🛠️ Core Technologies & Skills
 
