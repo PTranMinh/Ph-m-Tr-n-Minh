@@ -20,7 +20,11 @@
   - Directly participated in PCB design, schematic routing, and hardware wiring for practical industrial systems.
 
 ---
-
+🧠 AI/ML & Hardware Specialization
+Computer Vision: Object Detection, Object Tracking, OCR Extraction, Visual Embedding.
+Edge AI: Real-time Inference, TensorRT FP16 Quantization, Model Deployment.
+Hardware & Embedded: PCB Design (Altium/Proteus), I2C Bus, 16-bit ADCs, NVIDIA Jetson Series.
+Infrastructure: Network Bottleneck Troubleshooting, Mesh Networking.
 ## 🚀 Featured Projects
 
 ### 1. AI-Based Surface Anomaly Detection & Geo-Tagging 
