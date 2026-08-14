@@ -1,4 +1,4 @@
-# Phạm-Trần-Minh
+# About me
 <h1 align="center">Hi, I'm [Pham Tran Minh]</h1>
 <h3 align="center">AI/Computer Vision & Embedded Systems Engineer</h3>
 
@@ -73,34 +73,27 @@ Infrastructure: Network Bottleneck Troubleshooting, Mesh Networking.
 </div>
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=333" width="48%" />
-</div>
-
 <h2>🎓 Achievements & Milestones</h2>
 
 <table width="100%">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" valign="top" width="25%">
       <img src="https://img.shields.io/badge/GPA-3.15%2F4.0-43A047?style=for-the-badge" /><br><br>
       <b>Academic Excellence</b><br>
       HCMUTE Computer<br>Engineering
     </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/AI_ACCURACY%25_mAP-007EC6?style=for-the-badge" /><br><br>
+    <td align="center" valign="top" width="25%">
+      <img src="https://img.shields.io/badge/AI_ACCURACY-83%25_mAP-007EC6?style=for-the-badge" /><br><br>
       <b>Model Performance</b><br>
       Computer Vision<br>Tasks
     </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/INFERENCE-100+_FPS-E65100?style=for-the-badge" /><br><br>
+    <td align="center" valign="top" width="25%">
+      <img src="https://img.shields.io/badge/INFERENCE-102.34_FPS-E65100?style=for-the-badge" /><br><br>
       <b>Real-time AI</b><br>
-      Edge Deployment
+      Edge Deployment<br>&nbsp;
     </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/TOEIC-650+%2B-800080?style=for-the-badge" /><br><br>
+    <td align="center" valign="top" width="25%">
+      <img src="https://img.shields.io/badge/TOEIC-650%2B-800080?style=for-the-badge" /><br><br>
       <b>English Proficiency</b><br>
       International<br>Ready
     </td>
