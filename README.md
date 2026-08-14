@@ -90,7 +90,7 @@ Infrastructure: Network Bottleneck Troubleshooting, Mesh Networking.
       HCMUTE Computer<br>Engineering
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/AI_ACCURACY-83%25_mAP-007EC6?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/AI_ACCURACY%25_mAP-007EC6?style=for-the-badge" /><br><br>
       <b>Model Performance</b><br>
       Computer Vision<br>Tasks
     </td>
