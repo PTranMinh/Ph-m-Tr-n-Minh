@@ -30,11 +30,11 @@ Infrastructure: Network Bottleneck Troubleshooting, Mesh Networking.
 
 ✨ Achievements:
 
-🎯 High Accuracy: Achieved an 83% mAP by utilizing a highly optimized dataset (Dataset 2), which effectively combined real-world Vietnamese street environments with refined internet data.
+🎯 Achieved an 83% mAP by utilizing a highly optimized dataset (Dataset 2), which effectively combined real-world Vietnamese street environments with refined internet data.
 
-⚡ Model Quantization: Applied TensorRT FP16 quantization, pushing inference throughput to a blistering 102.34 FPS on edge hardware.
+⚡ Applied TensorRT FP16 quantization, pushing inference throughput to a blistering 102.34 FPS on edge hardware.
 
-📍 Innovative Architecture: Replaced traditional, high-latency GPS hardware with a custom Zero-Latency visual embedding and OCR extraction method for instantaneous geo-tagging.
+📍 Replaced traditional, high-latency GPS hardware with a custom Zero-Latency visual embedding and OCR extraction method for instantaneous geo-tagging.
 
 ### Automated Object Tracking & High-Precision Counting Pipeline
 
@@ -57,15 +57,20 @@ Infrastructure: Network Bottleneck Troubleshooting, Mesh Networking.
 
 ## 🛠️ Core Technologies & Skills
 
-**AI & Computer Vision**
-- YOLOv8, NVIDIA TensorRT (FP16), OpenCV, OCR Pipeline.
+<h3 align="center">🧠 AI/ML & Computer Vision</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black" />
+</div>
 
-**Hardware & Edge Computing**
-- NVIDIA Jetson Orin Nano, PCB Design (Altium/Proteus), Circuit Wiring.
-
-**Languages & Infrastructure**
-- Python, C++, Linux, Network Troubleshooting (LAN, Mesh, Router Configuration), LaTeX.
-
+<h3 align="center">⚙️ Hardware & Edge Computing</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Altium_Designer-A30000?style=for-the-badge&logo=altium-designer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
 ---
 
 ## 📈 GitHub Activity
